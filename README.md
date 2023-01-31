@@ -6,7 +6,7 @@ To initiate the cleaning proccess use command:
 PC: Ctrl + Shift + P and search for Clean My React  
 MAC: CMD + Shift + P and search for Clean My React
 
-
+![1](./images/EXAMPLE%201.gif) 
 ## Deletes these specific files:
 WARNING: This extension removes files and edits your code. Do not trigger this extension besides right after running a npx create-react-app to clear all the boilerplate code.  
 /public/favicon.ico  
