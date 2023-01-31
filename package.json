@@ -1,15 +1,15 @@
 {
   "name": "clean-my-react",
   "displayName": "Clean My React",
-  "description": "Clean up your create-react-app boilerplate code",
-  "version": "0.0.1",
+  "description": "Cleans up your React project by removing unnecessary files and folders.",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": "^1.74.0"
   },
   "categories": [
     "Other"
   ],
-  "publisher": "create-my-react",
+  "publisher": "CleanMyReact",
   "repository": {
     "type": "git",
     "url": "https://github.com/audunlk/cleanmyreact.git"
