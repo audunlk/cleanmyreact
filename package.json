@@ -2,7 +2,7 @@
   "name": "clean-my-react",
   "displayName": "Clean My React",
   "description": "Cleans up your React project by removing unnecessary files and folders.",
-  "version": "0.0.4",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.74.0"
   },
